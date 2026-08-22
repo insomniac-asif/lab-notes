@@ -5,7 +5,7 @@
 **Daily logs from Absent Born Labs — drafted by a local model, reviewed by a human, never faked.**
 
 ![drafted](https://img.shields.io/badge/drafted-locally_by_ABL-DC143C)
-![reviewed](https://img.shields.io/badge/reviewed-by_a_human-DC143C)
+![reviewed](https://img.shields.io/badge/reviewed—after_publish_by_a_human-DC143C)
 ![empty days](https://img.shields.io/badge/empty_days-no_log-555555)
 
 </div>
@@ -18,7 +18,7 @@ This repo is the disclosure as much as it is the logs. The rules below went up b
 
 ## How a log gets made
 
-Each night, a pipeline on my own hardware gathers the day's real activity, and my local AI system (ABL) drafts the log. I review and edit. Then — and only then — it's published here.
+Each night, a pipeline on my own hardware gathers the day's real activity, and my local AI system (ABL) drafts the log. The draft is published here the same night, clearly labeled as machine-drafted and not yet human-reviewed. I read each entry after publication; when it gets facts wrong, the correction lands as an appended note rather than a silent rewrite.
 
 ```mermaid
 flowchart TD
@@ -40,7 +40,7 @@ flowchart TD
 ## The rules
 
 - **Drafted locally.** The drafting model runs on lab hardware. Nothing personal leaves the machine; the pipeline only reads what's already mine — public GitHub events, lab memory notes, service state.
-- **Human-reviewed.** I read and edit every entry before it lands here. Sole human contributor: Asif Hossain.
+- **Human-accountable.** Entries publish machine-drafted and labeled as such; Asif reviews after publication and corrections are appended visibly. Sole human contributor: Asif Hossain.
 - **Never fabricated.** If nothing real happened, no log is written. An empty stretch in this repo is the rule holding, not neglect.
 
 ## Reading the logs
