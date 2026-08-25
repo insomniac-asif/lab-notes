@@ -5,6 +5,9 @@ Measured with llama-bench (pp512 / tg128, tok/s). Skips are recorded, never fake
 
 | date | model | status | pp512 | tg128 |
 |---|---|---|---|---|
+| 2026-08-25 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(2703MB free) |  |  |
+| 2026-08-25 | ornith-1.5-9b | SKIPPED:gpu_busy(2703MB free) |  |  |
+| 2026-08-25 | qwen3.5-4b | SKIPPED:gpu_busy(2703MB free) |  |  |
 | 2026-08-24 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(4464MB free) |  |  |
 | 2026-08-24 | ornith-1.5-9b | SKIPPED:gpu_busy(4464MB free) |  |  |
 | 2026-08-24 | qwen3.5-4b | SKIPPED:gpu_busy(4464MB free) |  |  |
