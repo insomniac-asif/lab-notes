@@ -38,3 +38,6 @@ date,model,status,pp512,tg128
 2026-09-03,qwen3.5-4b,SKIPPED:gpu_busy(3706MB free),,
 2026-09-03,ornith-1.5-9b,SKIPPED:gpu_busy(3706MB free),,
 2026-09-03,ornith-1.5-35b-a3b,SKIPPED:gpu_busy(3706MB free),,
+2026-09-04,qwen3.5-4b,OK,3953.65,115.72
+2026-09-04,ornith-1.5-9b,OK,1595.89,33.74
+2026-09-04,ornith-1.5-35b-a3b,OK,116.93,15.76
