@@ -5,6 +5,9 @@ Measured with llama-bench (pp512 / tg128, tok/s). Skips are recorded, never fake
 
 | date | model | status | pp512 | tg128 |
 |---|---|---|---|---|
+| 2026-09-26 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(6693MB free) |  |  |
+| 2026-09-26 | ornith-1.5-9b | SKIPPED:gpu_busy(6693MB free) |  |  |
+| 2026-09-26 | qwen3.5-4b | SKIPPED:gpu_busy(6693MB free) |  |  |
 | 2026-09-24 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(4173MB free) |  |  |
 | 2026-09-24 | ornith-1.5-9b | SKIPPED:gpu_busy(4173MB free) |  |  |
 | 2026-09-24 | qwen3.5-4b | SKIPPED:gpu_busy(4173MB free) |  |  |
@@ -41,9 +44,6 @@ Measured with llama-bench (pp512 / tg128, tok/s). Skips are recorded, never fake
 | 2026-09-15 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(4139MB free) |  |  |
 | 2026-09-15 | ornith-1.5-9b | SKIPPED:gpu_busy(4139MB free) |  |  |
 | 2026-09-15 | qwen3.5-4b | SKIPPED:gpu_busy(4139MB free) |  |  |
-| 2026-09-14 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(5784MB free) |  |  |
-| 2026-09-14 | ornith-1.5-9b | SKIPPED:gpu_busy(5784MB free) |  |  |
-| 2026-09-14 | qwen3.5-4b | SKIPPED:gpu_busy(5784MB free) |  |  |
 | 2026-09-14 | ornith-1.5-35b-a3b | SKIPPED:gpu_busy(5784MB free) |  |  |
 | 2026-09-14 | ornith-1.5-9b | SKIPPED:gpu_busy(5784MB free) |  |  |
 | 2026-09-14 | qwen3.5-4b | SKIPPED:gpu_busy(5784MB free) |  |  |
